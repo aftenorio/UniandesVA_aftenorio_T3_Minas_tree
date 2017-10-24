@@ -1,0 +1,242 @@
+{
+  "downward":{
+    "direction":"downward",
+    "name":"origin",
+    "children":[
+      {
+        "name":"ANTIOQUIA",
+        "children":[
+          {
+            "name":"ANORÍ (166 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"ARGELIA (74 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"COCORNÁ (73 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"DABEIBA (119 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"GRANADA (77 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"ITUANGO (239 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"SAN CARLOS (171 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"SAN FRANCISCO (104 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"SAN LUIS (82 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"SONSÓN (87 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"TARAZÁ (241 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"VALDIVIA (121 Victimas)",
+            "children":[]
+          }
+        ]
+      },
+     {
+        "name":"ARAUCA",
+        "children":[
+          {
+            "name":"ARAUQUITA (155 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"TAME (345 Victimas)",
+            "children":[]
+          }
+        ]
+      },
+     {
+        "name":"BOLIVAR",
+        "children":[
+          {
+            "name":"EL CARMEN DE BOLÍVAR (119 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"MORALES (79 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"SAN PABLO (89 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"SANTA ROSA DEL SUR (77 Victimas)",
+            "children":[]
+          }
+        ]
+      },
+     {
+        "name":"CALDAS",
+        "children":[
+          {
+            "name":"SAMANÁ (94 Victimas)",
+            "children":[]
+          }
+        ]
+      },
+     {
+        "name":"CAQUETA",
+        "children":[
+          {
+            "name":"FLORENCIA (88 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"MONTAÑITA (249 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"PUERTO RICO (127 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"SAN VICENTE DEL CAGUÁN (261 Victimas)",
+            "children":[]
+          }
+        ]
+      },
+     {
+        "name":"CAUCA",
+        "children":[
+          {
+            "name":"EL TAMBO (87 Victimas)",
+            "children":[]
+          }
+        ]
+      },
+     {
+        "name":"CORDOBA",
+        "children":[
+          {
+            "name":"PUERTO LIBERTADOR (131 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"TIERRALTA (124 Victimas)",
+            "children":[]
+          }
+        ]
+      },
+     {
+        "name":"GUAVIARE",
+        "children":[
+          {
+            "name":"SAN JOSÉ DEL GUAVIARE (133 Victimas)",
+            "children":[]
+          }
+        ]
+      },
+     {
+        "name":"HUILA",
+        "children":[
+          {
+            "name":"ALGECIRAS (73 Victimas)",
+            "children":[]
+          }
+        ]
+      },
+     {
+        "name":"META",
+        "children":[
+          {
+            "name":"LA MACARENA (99 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"MESETAS (115 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"PUERTO RICO (114 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"URIBE (154 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"VISTAHERMOSA (363 Victimas)",
+            "children":[]
+          }
+        ]
+      },
+     {
+        "name":"NARIÑO",
+        "children":[
+          {
+            "name":"CONVENCIÓN (72 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"EL TARRA (89 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"HACARÍ (90 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"TEORAMA (168 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"TIBÚ (163 Victimas)",
+            "children":[]
+          }
+        ]
+      },
+     {
+        "name":"PUTUMAYO",
+        "children":[
+          {
+            "name":"PUERTO ASÍS (161 Victimas)",
+            "children":[]
+          }
+        ]
+      },
+     {
+        "name":"TOLIMA",
+        "children":[
+          {
+            "name":"CHAPARRAL (161 Victimas)",
+            "children":[]
+          },
+          {
+            "name":"PLANADAS (161 Victimas)",
+            "children":[]
+          }
+          ,
+          {
+            "name":"RIOBLANCO (161 Victimas)",
+            "children":[]
+          }
+        ]
+      }
+    ]
+  }
+}
